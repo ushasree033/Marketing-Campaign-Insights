@@ -21,6 +21,10 @@ The objective of this project is to transform raw marketing data into meaningful
 - Generate actionable business insights
 
 ## Dashboard Analysis
+## 📸 Dashboard Preview
+<img width="1206" height="678" alt="image" src="https://github.com/user-attachments/assets/067a0709-f4d6-4449-b270-45940ea7b35c" />
+
+
 
 ### Campaign Acceptance
 The dashboard compares the acceptance of different marketing campaigns and identifies the campaigns with higher customer acceptance.
